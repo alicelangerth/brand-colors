@@ -1,6 +1,6 @@
-# vision
+# Brand Colors
 
-> A Vue.js project
+This site screens and analyzes images from Instagram. Built with Vue and Google Vision.
 
 ## Build Setup
 
