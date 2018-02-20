@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Brand Colors</title>
+    <script>
+    // Show info-message if javascript is disabled
+    (function () {
+      document.documentElement.classList.add('has-js')
+      window.LOAD_TIMEOUT = setTimeout(function () {
+        document.documentElement.classList.remove('has-js')
+      }, 3000)
+    }())
+  </script>
+  <style>
+    /* Style for info-message if javascript is disabled */
+    .has-js .no-js { display: none; }
+    .no-js h1 {
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 5vh;
+      text-align: center;
+      padding: 30vh 5vh;
+    }
+  </style>
+  </head>
+  <body>
+  	<div class="no-js"><h1>You need to enable javascript for this site to work<h1></div>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

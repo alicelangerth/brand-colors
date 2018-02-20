@@ -1,0 +1,16 @@
+{
+   "Forest":["pine tree","birch","pine family","fir","forest","spruce fir forest","pine","taiga","coniferous forest","conifer","taiga"],
+   "Rainforest":["rainforest","tropical","tiger","jungle","valdivian temperate rain forest","tropics","caribbean"],
+   "Grassland":["cheetah","Grassland","steppe","praire","savanna","gazelle","safari","plain","impala","antelope","giraffe","lion"],
+   "Desert":["cactus","desert","sand","shrubland","erg","sahara","oasis","dune"],
+   "Arctic":["iceberg","glacial lake","arctic","glacier","ice cap","polar","sea ice","highland","tundra","fjord","glacial landform","alps","elevation","summit","massif"],
+   "Marine":["Ocean","wave","beach","lifeguard","surf","coast","shore","sea","coastal and oceanic landforms","sand","bay","lagoon","island"],
+   "Wetlands":["river","lake","watercourse","fluvial landforms of streams","resevoir","canal","fjord"],
+   "Indoor":["couch","tv","sofa","chair","kitchen","bed","shower","bathroom"],
+   "Transportation":["car","bus","airplane","train","subway","boat"],
+   "Arenas/Events":["festival","concert","venue","performance"],
+   "Park/Outdoor":["swings","pond","walkway","pool","garden","pond","reflecting pool","botanical garden"],
+   "City ":["skyscraper","building","concrete","city","metropolitan area","skyline","real estate"],
+   "Suburbs":["mailbox","house","lawnmower"],
+   "Rural":["cow","chicken","pig","village","ranch","rural area","agriculture","farm","crop","pasture"]
+}
